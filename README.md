@@ -1,6 +1,8 @@
 # Resume-Content-Extractor-Make.com-Automation
 A Make.com workflow that extracts resume content from a Google Doc using pattern matching, then returns the parsed output for downstream processing.
+
 Three-step Make.com scenario that pulls structured content out of a Google Docs resume.
+
 How it works:
 
 Text Parser — runs a regex pattern match against raw text input to identify and extract resume sections
